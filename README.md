@@ -38,7 +38,7 @@ I'm an **ML & Backend Engineer** building scalable AI systems and robust backend
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levkad03&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=levkad03&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=levkad03&theme=radical)
-[![Lev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=levkad03&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=levkad03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
