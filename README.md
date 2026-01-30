@@ -34,8 +34,7 @@ I'm an **ML & Backend Engineer** building scalable AI systems and robust backend
 
 ## 🔹 GitHub Stats
 
-![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkad03&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levkad03&layout=compact&theme=radical)
+![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=levkad03&hide=contribs,prs)
 
 ---
 
